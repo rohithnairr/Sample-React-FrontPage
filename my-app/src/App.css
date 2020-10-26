@@ -1,0 +1,11 @@
+Carousel.Item.d-block w-100 {
+  align-content: right;
+}
+
+.Card.Img {
+  align-content: center;
+}
+
+.align-self-start mr-3 {
+  align-items: centerl;
+}
