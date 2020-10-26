@@ -1,2 +1,2 @@
 # Sample-React-FrontPage
-Developed by ReactJS
+Developed with ReactJS
